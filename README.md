@@ -1,6 +1,6 @@
 # jQuery Package for Sublime Text
 
-This is a Sublime Text bundle to help with jQuery functions. It has syntax highlighting and almost all of the jquery methods as snippets.
+This is a Sublime Text bundle to help with jQuery functions. It has almost all of the jQuery methods as snippets.
 
 ## Using snippets
 Snippets are used by typing the method name and selecting the appropriate match, see below for an example when using `ajax` as the tabtrigger:
